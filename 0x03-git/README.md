@@ -1,1 +1,0 @@
-This readme is part of the 0x03-git project
