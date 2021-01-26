@@ -1,0 +1,1 @@
+Each file in the 0x01-emacs folder contains an emacs shortcut command
