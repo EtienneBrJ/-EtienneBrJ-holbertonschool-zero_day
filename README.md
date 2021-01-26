@@ -1,1 +1,1 @@
-This README is part of 0x03-git project
+Welcome to my first repositary!
